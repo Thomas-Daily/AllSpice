@@ -1,4 +1,4 @@
-using fall22_PostIt_CSharp.Interfaces;
+using AllSpice.Interfaces;
 
 namespace AllSpice.Models;
 
