@@ -1,4 +1,4 @@
-namespace fall22_PostIt_CSharp.Interfaces;
+namespace AllSpice.Interfaces;
 
 public interface ICreated
 {
